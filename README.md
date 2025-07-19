@@ -1,4 +1,4 @@
-<h1 align="center">Hey there! 👋 I'm Shaif Khan</h1>
+<h1 align="center">✨ Hey there! 👋 I'm Shaif Khan 🚀</h1>
 <h3 align="center">🚀 Backend Developer | 🤖 AI & ML Enthusiast | 📊 Data Analyst</h3>
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/1*4fNBO_UDYEVxM0E5T2FyJQ.gif">
 
@@ -59,15 +59,37 @@
 ---
 
 ### 📈 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=shaif-khan&show_icons=true&theme=default" alt="Shaif's GitHub stats"/> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaif-khan&layout=compact&theme=default" alt="Top Languages"/> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=shaif-khan&theme=default" alt="GitHub Streak"/> </p>
+<p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=shaif-khan&show_icons=true&theme=default" alt="Shaif's GitHub stats"/> 
+</p> 
+<p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaif-khan&layout=compact&theme=default" alt="Top Languages"/> 
+</p> 
+<p align="center"> 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shaif-khan&theme=default" alt="GitHub Streak"/> 
+</p>
+
 ---
 
-### 🧠 Featured Projects
-Here are a few things I’ve built recently:
+### 🎥 Projects Demo Videos
+Click below to see video walkthroughs of my key projects:
 
-- 🛍️ **AI Shopping + Mood Chatbot** using Rasa, Python & Telegram — Smart assistant that recommends smartphones/laptops & adjusts based on mood!
-- 📈 **Data Analysis Dashboards** with Power BI & Tableau across domains like healthcare, retail, finance, and more
-- 🔗 **API Development** for e-commerce, sentiment analysis, and chatbot platforms using Django, Flask, and FastAPI
+1. 🛍️ **AI Shoppingbot + Mood Chatbot**  
+   [![Watch Video](https://img.shields.io/badge/Watch-Demo-blue?style=for-the-badge)](https://drive.google.com/file/d/16YV0hN0oDJ1q7Y-5rHzIEEdXZF62ltCn/view)
+
+2. 📊 **Flask CRUD Web App**  
+   [![Watch Video](https://img.shields.io/badge/Watch-Demo-blue?style=for-the-badge)](https://drive.google.com/file/d/1AjAAMCaVfemNY997hTmPuHUAj5g-TFaL/view)
+
+3. 🔍 **Django Book App**
+   [![Watch Video](https://img.shields.io/badge/Watch-Demo-blue?style=for-the-badge)](https://drive.google.com/file/d/1rA88swc3qkOXTLjzOkDltauUobnrL3h5/view)
+
+4. 🔐 **User & Client API Service System (FastAPI)** 
+   [![Watch Video](https://img.shields.io/badge/Watch-Demo-blue?style=for-the-badge)](https://drive.google.com/file/d/1gN64qE7nlbBCtX9BxnmXH7cNz-c18vvu/view)
+
+5. 🌐 **Portfolio Website** 
+   [![Watch Video](https://img.shields.io/badge/Watch-Demo-blue?style=for-the-badge)](https://drive.google.com/file/d/1az5hXdRtWc500LCy7HFl0OUswjKcp8iV/view)
+
+---
 
 ---
 
