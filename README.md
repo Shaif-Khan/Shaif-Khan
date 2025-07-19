@@ -71,25 +71,46 @@
 
 ---
 
+
+
 ### 🎥 Projects Demo Videos
-Click below to see video walkthroughs of my key projects:
+🎬 **Click below to watch demo walkthroughs of my key projects:**
 
-1. 🛍️ **AI Shoppingbot + Mood Chatbot**  
-   [![Watch Video](https://img.shields.io/badge/Watch-Demo-blue?style=for-the-badge)](https://drive.google.com/file/d/16YV0hN0oDJ1q7Y-5rHzIEEdXZF62ltCn/view)
+1. 🛍️ **AI Shoppingbot + Mood Chatbot** — 🤖🛒 Mood-based recommendations with Rasa, Python & Telegram  
+   [![📺 Watch Demo](https://img.shields.io/badge/📺%20Watch-Demo-blue?style=for-the-badge)](https://drive.google.com/file/d/16YV0hN0oDJ1q7Y-5rHzIEEdXZF62ltCn/view)
 
-2. 📊 **Flask CRUD Web App**  
-   [![Watch Video](https://img.shields.io/badge/Watch-Demo-blue?style=for-the-badge)](https://drive.google.com/file/d/1AjAAMCaVfemNY997hTmPuHUAj5g-TFaL/view)
+2. 📝 **Flask CRUD Web App** — ⚙️ Lightweight web app for managing user records  
+   [![📺 Watch Demo](https://img.shields.io/badge/📺%20Watch-Demo-blue?style=for-the-badge)](https://drive.google.com/file/d/1AjAAMCaVfemNY997hTmPuHUAj5g-TFaL/view)
 
-3. 🔍 **Django Book App**
-   [![Watch Video](https://img.shields.io/badge/Watch-Demo-blue?style=for-the-badge)](https://drive.google.com/file/d/1rA88swc3qkOXTLjzOkDltauUobnrL3h5/view)
+3. 📚 **Django Book App** — 📖 Manage your book library with full CRUD & auth  
+   [![📺 Watch Demo](https://img.shields.io/badge/📺%20Watch-Demo-blue?style=for-the-badge)](https://drive.google.com/file/d/1rA88swc3qkOXTLjzOkDltauUobnrL3h5/view)
 
-4. 🔐 **User & Client API Service System (FastAPI)** 
-   [![Watch Video](https://img.shields.io/badge/Watch-Demo-blue?style=for-the-badge)](https://drive.google.com/file/d/1gN64qE7nlbBCtX9BxnmXH7cNz-c18vvu/view)
+4. 🔐 **User & Client API Service System (FastAPI)** — 🔧 JWT-auth, RBAC, client data service  
+   [![📺 Watch Demo](https://img.shields.io/badge/📺%20Watch-Demo-blue?style=for-the-badge)](https://drive.google.com/file/d/1gN64qE7nlbBCtX9BxnmXH7cNz-c18vvu/view)
 
-5. 🌐 **Portfolio Website** 
-   [![Watch Video](https://img.shields.io/badge/Watch-Demo-blue?style=for-the-badge)](https://drive.google.com/file/d/1az5hXdRtWc500LCy7HFl0OUswjKcp8iV/view)
+5. 🌐 **Portfolio Website** — 🧑‍💻 Showcasing my skills, projects, and contact info  
+   [![📺 Watch Demo](https://img.shields.io/badge/📺%20Watch-Demo-blue?style=for-the-badge)](https://drive.google.com/file/d/1az5hXdRtWc500LCy7HFl0OUswjKcp8iV/view)
 
 ---
+
+
+### 📊 Data Analyst Project Demos
+Click below to watch walkthroughs of my Excel, Power BI, and Tableau projects:
+
+1. 🛣️ **Road Accident Analysis (Advanced Excel)**  
+   [![📺 Watch Demo](https://img.shields.io/badge/📺%20Watch-Demo-blue?style=for-the-badge)](https://drive.google.com/file/d/1vBM_a3MTTWZdRpWWj9UJALVLZ_3a3iOZ/view)
+
+2. 📞 **Call Center Data Dashboard (Power BI)**  
+   [![📺 Watch Demo](https://img.shields.io/badge/📺%20Watch-Demo-blue?style=for-the-badge)](https://drive.google.com/file/d/1pUPVxUm8m_5VTea-nh8SAz4OImc4h4z0/view)
+
+3. 🏥 **Hospital Emergency Dashboard (Power BI)**  
+   [![📺 Watch Demo](https://img.shields.io/badge/📺%20Watch-Demo-blue?style=for-the-badge)](https://drive.google.com/file/d/1lpzFeoAaAUIbHqqGo6DIaNcJ-RNxMiKS/view)
+
+4. 🛒 **Grocery Sales Dashboard (Advanced Excel)**  
+   [![📺 Watch Demo](https://img.shields.io/badge/📺%20Watch-Demo-blue?style=for-the-badge)](https://drive.google.com/file/d/1pGNbjaq9p1p_QHbJ8MtuWATLy0kSGvzT/view)
+
+5. 💳 **Credit Card Complaint Analysis (Tableau)**  
+   [![📺 Watch Demo](https://img.shields.io/badge/📺%20Watch-Demo-blue?style=for-the-badge)](https://drive.google.com/file/d/1TNs5inOqQObAKUsbmwWp35MwtaKJyvtN/view)
 
 ---
 
