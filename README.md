@@ -1,64 +1,71 @@
 <h1 align="center">✨ Hey there! 👋 I'm Shaif Khan 🚀</h1>
-<h3 align="center">🚀 Backend Developer | 🤖 AI & ML Enthusiast | 📊 Data Analyst</h3>
-<img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/1*4fNBO_UDYEVxM0E5T2FyJQ.gif">
+<h3 align="center">🕸️ Backend Developer | 🤖 AI & ML Enthusiast | 📊 Data Analyst</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shaif-khan&label=Profile%20Views&color=0e75b6&style=flat" alt="shaif-khan" />
+  <img src="https://miro.medium.com/v2/resize:fit:1400/1*4fNBO_UDYEVxM0E5T2FyJQ.gif" alt="coding" width="400"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shaif-khan&label=👀%20Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
 </p>
 
 ---
 
-### 🧑‍💻 About Me
-- 🔭 Currently diving deep into **Full Stack Engineering** (Backend + Frontend)
-- 🧠 Learning and building with **Django, FastAPI, Flask, and Frontend technologies**
-- 🤝 Open to collaborating on **Backend Systems | AI & ML Projects | Frontend Integrations**
-- 🌐 Visit my portfolio: [shaif-khan.vercel.app](https://my-portfolio-website-jet-ten.vercel.app/)
-- 💬 Ask me about anything related to **Python, SQL, APIs, or Data Projects**
-- 📧 Email me: **khanshaif2310@gmail.com**
-- 📄 Know more: [LinkedIn Profile](https://www.linkedin.com/in/shaif-khan)
+<h2 align="center">🧑‍💻 About Me</h2>
+
+- 🔭 Currently exploring **Full Stack Engineering** (Backend ⚡ + Frontend 🎨)  
+- 🧠 Building projects with **Django 🕸️, FastAPI ⚡, Flask 🍶, and modern frontend tech**  
+- 🤝 Open to collaborating on **Backend Systems | AI & ML Projects | Data Analytics**  
+- 🌐 Portfolio: [🌍 shaif-khan.vercel.app](https://my-portfolio-website-jet-ten.vercel.app/)  
+- 💬 Ask me about **Python 🐍, SQL 🛢️, APIs 🔗, or Data Projects 📊**  
+- 📧 Reach me at: **khanshaif2310@gmail.com**  
+- 🔗 Connect professionally: [LinkedIn](https://www.linkedin.com/in/shaif-khan)  
 
 ---
 
-### 🌐 Connect With Me
-<p align="left">
+<h2 align="center">🌐 Connect With Me</h2>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/shaif-khan" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/💼%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://www.kaggle.com/shaifk" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+    <img src="https://img.shields.io/badge/📊%20Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
   </a>
   <a href="https://instagram.com/shaif8184" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/📸%20Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
   <a href="https://www.leetcode.com/shaif2310" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+    <img src="https://img.shields.io/badge/🧩%20LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
 </p>
 
 ---
 
-### 🛠️ Languages & Tools
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MSSQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Seaborn-0769AD?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+<h2 align="center">🛠️ Tech Stack</h2>
+
+<p align="center">
+  🐍 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  🛢️ <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white"/>
+  🗄️ <img src="https://img.shields.io/badge/MSSQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white"/>
+  🍶 <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
+  ⚡ <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+  🕸️ <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
+  🎨 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+  🎨 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+  🌊 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
+  ⚙️ <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+  🐼 <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+  📈 <img src="https://img.shields.io/badge/Seaborn-0769AD?style=flat-square"/>
+  🤖 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+  🕹️ <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white"/>
+  🧰 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
 </p>
 
 ---
 
-### 📈 GitHub Stats
+<h2 align="center">📈 GitHub Insights</h2>
+
 <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=shaif-khan&show_icons=true&theme=default" alt="Shaif's GitHub stats"/> 
 </p> 
@@ -71,55 +78,56 @@
 
 ---
 
+<h2 align="center">🎥 Project Demo Videos</h2>
 
+🎬 **Watch walkthroughs of my projects here:**  
 
-### 🎥 Projects Demo Videos
-🎬 **Click below to watch demo walkthroughs of my key projects:**
+1. 🛍️ **AI Shoppingbot + Mood Chatbot** — 🤖🛒 Rasa, Python & Telegram  
+   [![📺 Watch Demo](https://img.shields.io/badge/▶️%20Watch-Demo-blue?style=for-the-badge)](https://drive.google.com/file/d/16YV0hN0oDJ1q7Y-5rHzIEEdXZF62ltCn/view)
 
-1. 🛍️ **AI Shoppingbot + Mood Chatbot** — 🤖🛒 Mood-based recommendations with Rasa, Python & Telegram  
-   [![📺 Watch Demo](https://img.shields.io/badge/📺%20Watch-Demo-blue?style=for-the-badge)](https://drive.google.com/file/d/16YV0hN0oDJ1q7Y-5rHzIEEdXZF62ltCn/view)
+2. 📝 **Flask CRUD Web App** — ⚙️ User records management  
+   [![📺 Watch Demo](https://img.shields.io/badge/▶️%20Watch-Demo-blue?style=for-the-badge)](https://drive.google.com/file/d/1AjAAMCaVfemNY997hTmPuHUAj5g-TFaL/view)
 
-2. 📝 **Flask CRUD Web App** — ⚙️ Lightweight web app for managing user records  
-   [![📺 Watch Demo](https://img.shields.io/badge/📺%20Watch-Demo-blue?style=for-the-badge)](https://drive.google.com/file/d/1AjAAMCaVfemNY997hTmPuHUAj5g-TFaL/view)
+3. 📚 **Django Book App** — 📖 CRUD & authentication  
+   [![📺 Watch Demo](https://img.shields.io/badge/▶️%20Watch-Demo-blue?style=for-the-badge)](https://drive.google.com/file/d/1rA88swc3qkOXTLjzOkDltauUobnrL3h5/view)
 
-3. 📚 **Django Book App** — 📖 Manage your book library with full CRUD & auth  
-   [![📺 Watch Demo](https://img.shields.io/badge/📺%20Watch-Demo-blue?style=for-the-badge)](https://drive.google.com/file/d/1rA88swc3qkOXTLjzOkDltauUobnrL3h5/view)
+4. 🔐 **FastAPI User & Client API Service** — 🔧 JWT-auth & RBAC  
+   [![📺 Watch Demo](https://img.shields.io/badge/▶️%20Watch-Demo-blue?style=for-the-badge)](https://drive.google.com/file/d/1gN64qE7nlbBCtX9BxnmXH7cNz-c18vvu/view)
 
-4. 🔐 **User & Client API Service System (FastAPI)** — 🔧 JWT-auth, RBAC, client data service  
-   [![📺 Watch Demo](https://img.shields.io/badge/📺%20Watch-Demo-blue?style=for-the-badge)](https://drive.google.com/file/d/1gN64qE7nlbBCtX9BxnmXH7cNz-c18vvu/view)
-
-5. 🌐 **Portfolio Website** — 🧑‍💻 Showcasing my skills, projects, and contact info  
-   [![📺 Watch Demo](https://img.shields.io/badge/📺%20Watch-Demo-blue?style=for-the-badge)](https://drive.google.com/file/d/1az5hXdRtWc500LCy7HFl0OUswjKcp8iV/view)
+5. 🌐 **Portfolio Website** — 🧑‍💻 Skills, projects, and contact info  
+   [![📺 Watch Demo](https://img.shields.io/badge/▶️%20Watch-Demo-blue?style=for-the-badge)](https://drive.google.com/file/d/1az5hXdRtWc500LCy7HFl0OUswjKcp8iV/view)
 
 ---
 
+<h2 align="center">📊 Data Analytics Demos</h2>
 
-### 📊 Data Analyst Project Demos
-Click below to watch walkthroughs of my Excel, Power BI, and Tableau projects:
+🎥 Walkthroughs of **Excel, Power BI, and Tableau** dashboards:  
 
-1. 🛣️ **Road Accident Analysis (Advanced Excel)**  
-   [![📺 Watch Demo](https://img.shields.io/badge/📺%20Watch-Demo-blue?style=for-the-badge)](https://drive.google.com/file/d/1vBM_a3MTTWZdRpWWj9UJALVLZ_3a3iOZ/view)
+1. 🛣️ **Road Accident Analysis (Excel)**  
+   [![📺 Demo](https://img.shields.io/badge/▶️%20Demo-blue?style=for-the-badge)](https://drive.google.com/file/d/1vBM_a3MTTWZdRpWWj9UJALVLZ_3a3iOZ/view)
 
-2. 📞 **Call Center Data Dashboard (Power BI)**  
-   [![📺 Watch Demo](https://img.shields.io/badge/📺%20Watch-Demo-blue?style=for-the-badge)](https://drive.google.com/file/d/1pUPVxUm8m_5VTea-nh8SAz4OImc4h4z0/view)
+2. 📞 **Call Center Dashboard (Power BI)**  
+   [![📺 Demo](https://img.shields.io/badge/▶️%20Demo-blue?style=for-the-badge)](https://drive.google.com/file/d/1pUPVxUm8m_5VTea-nh8SAz4OImc4h4z0/view)
 
 3. 🏥 **Hospital Emergency Dashboard (Power BI)**  
-   [![📺 Watch Demo](https://img.shields.io/badge/📺%20Watch-Demo-blue?style=for-the-badge)](https://drive.google.com/file/d/1lpzFeoAaAUIbHqqGo6DIaNcJ-RNxMiKS/view)
+   [![📺 Demo](https://img.shields.io/badge/▶️%20Demo-blue?style=for-the-badge)](https://drive.google.com/file/d/1lpzFeoAaAUIbHqqGo6DIaNcJ-RNxMiKS/view)
 
-4. 🛒 **Grocery Sales Dashboard (Advanced Excel)**  
-   [![📺 Watch Demo](https://img.shields.io/badge/📺%20Watch-Demo-blue?style=for-the-badge)](https://drive.google.com/file/d/1pGNbjaq9p1p_QHbJ8MtuWATLy0kSGvzT/view)
+4. 🛒 **Grocery Sales Dashboard (Excel)**  
+   [![📺 Demo](https://img.shields.io/badge/▶️%20Demo-blue?style=for-the-badge)](https://drive.google.com/file/d/1pGNbjaq9p1p_QHbJ8MtuWATLy0kSGvzT/view)
 
 5. 💳 **Credit Card Complaint Analysis (Tableau)**  
-   [![📺 Watch Demo](https://img.shields.io/badge/📺%20Watch-Demo-blue?style=for-the-badge)](https://drive.google.com/file/d/1TNs5inOqQObAKUsbmwWp35MwtaKJyvtN/view)
+   [![📺 Demo](https://img.shields.io/badge/▶️%20Demo-blue?style=for-the-badge)](https://drive.google.com/file/d/1TNs5inOqQObAKUsbmwWp35MwtaKJyvtN/view)
 
 ---
 
-### 🎯 Fun Facts
-- 🎓 MCA Postgraduate from LNMI, Patna (Aryabhatta Knowledge University)
-- 🤖 Passionate about building **AI-integrated backends**
-- 🧠 Currently solving DSA problems on Leetcode and improving system design knowledge
+<h2 align="center">🎯 Fun Facts</h2>
+
+- 🎓 MCA Postgraduate (LNMI, Patna – Aryabhatta Knowledge University)  
+- 🤖 Passionate about **AI-integrated backends**  
+- 🧩 Practicing **DSA on LeetCode** & improving **System Design** knowledge  
 
 ---
 
-> _“Building one project at a time, solving one problem at a time.”_
-
+<p align="center">
+  ✨ <i>“Building one project at a time, solving one problem at a time.”</i> ✨
+</p>
