@@ -1,5 +1,9 @@
 <h1 align="center">✨ Hey there! 👋 I'm Shaif Khan 🚀</h1>
 <h3 align="center">🕸️ Backend Developer | 🤖 AI & ML Enthusiast | 📊 Data Analyst</h3>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shaif-khan&label=👀%20Profile%20Views&color=0e75b6&style=flat" alt="shaif-khan" />
+</p>
+
 
 <div align="center">
   <img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/1*4fNBO_UDYEVxM0E5T2FyJQ.gif">
